@@ -1,0 +1,18 @@
+when
+feature
+torch
+hour
+alert
+unhappy
+much
+media
+comic
+auto
+wreck
+lamp
+
+when feature torch hour alert unhappy much media comic auto wreck lamp
+
+12345678
+
+# Mnemonics and passcode for test account #1

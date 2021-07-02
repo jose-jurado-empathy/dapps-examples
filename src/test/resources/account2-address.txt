@@ -1,0 +1,3 @@
+0xCa58Cb3871B05460556c83D1f5f4C498Dea070e9
+
+# One test account with some funds at Göerli Testnet

@@ -1,0 +1,3 @@
+0x9FE39342e8d1460936428f652d093339878F2bA8
+
+# One test account with some funds at Göerli Testnet

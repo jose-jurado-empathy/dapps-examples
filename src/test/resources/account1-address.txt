@@ -2,4 +2,4 @@
 
 # One test account with some funds at Rinkeby Testnet
 
-https://faucets.chain.link/goerli
+https://fauceth.komputing.org/?chain=4
